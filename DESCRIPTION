@@ -1,0 +1,15 @@
+Package: naija
+Title: Bauchi package development training
+Version: 0.0.1
+Authors@R: 
+    person(given = "Bauchi",
+           family = "Nigeria",
+           role = c("aut", "cre"),
+           email = "bauchi.nigeria@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: It shows people how to create a package.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
